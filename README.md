@@ -1,1 +1,1 @@
-# structuri_repetitive
+# structuri-repetitive
